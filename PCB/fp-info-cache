@@ -1,4 +1,4 @@
-21450311444546890
+21460552311849518
 Audio_Jacks
 Jack_3.5mm_Cliff_FCR1281_Horizontal
 
@@ -53613,6 +53613,13 @@ Through hole angled pin header THT 1x17 2.54mm single row
 34
 34
 GaudiLabsFootPrints
+Arduino_Nano_SMD
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+30
+30
+GaudiLabsFootPrints
 BAT_HOLDER_AAA
 
 
@@ -53724,6 +53731,13 @@ CardEdgeConnector_3MPak50
 0
 50
 50
+GaudiLabsFootPrints
+CrystalHolder
+
+
+0
+0
+0
 GaudiLabsFootPrints
 D-Pak_TO252AA
 D-Pak, TO252AA, Diode
@@ -54228,6 +54242,13 @@ capacitor 0805
 0
 2
 2
+GaudiLabsFootPrints
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
 GaudiLabsFootPrints
 LED_SMD_WL-SMCW
 
@@ -54908,6 +54929,13 @@ Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,
 26
 3
 GaudiLabsFootPrints
+Speaker16mm_circular
+Speaker 16mm
+Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,
+0
+29
+3
+GaudiLabsFootPrints
 Switch_On-On
 
 Switch Micro SPST
@@ -55370,6 +55398,13 @@ DimmTopSilk
 0
 0
 GaudiLabsLogos
+DoefSilk
+
+
+0
+0
+0
+GaudiLabsLogos
 FLUXL_S
 
 
@@ -55490,6 +55525,13 @@ LOGO
 0
 GaudiLabsLogos
 MicroscopeyScale
+
+
+0
+0
+0
+GaudiLabsLogos
+MirnadaEnergyCommunity
 
 
 0
